@@ -71,3 +71,4 @@ if __name__ == "__main__":
     result = detector.check_file(target_file)
     if result:
         print(result)
+        
